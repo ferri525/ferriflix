@@ -1,0 +1,155 @@
+{
+  "categorias": [
+    {
+      "titulo": "Felipe Deschamps",
+      "link": "https://www.youtube.com/c/FilipeDeschamps",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Canal YT Felipe Deschamps",
+        "url": "https://www.youtube.com/c/FilipeDeschamps"
+      },
+      "videos": [
+        {
+          "titulo": "GPT-3, IA que programa sozinha?",
+          "url": "https://www.youtube.com/watch?v=pbVwH8o837A"
+        },
+        {
+          "titulo": "IA que programa sozinha",
+          "url": "https://www.youtube.com/watch?v=Cr89Oz0TWQM"
+        },
+        {
+          "titulo": "Algumas extensões do VSCode que irão te ajudar",
+          "url": "https://www.youtube.com/watch?v=FCC2GbStmfc"
+        },
+        {
+          "titulo": "Nova IA que começou a programar sozinha",
+          "url": "https://www.youtube.com/watch?v=KdgKQoq1jk0"
+        },
+        {
+          "titulo": "Design Pattern que um Pleno deveria saber",
+          "url": "https://www.youtube.com/watch?v=arAz2Ff8s88"
+        },
+        {
+          "titulo": "Hábitos de programadores eficazes",
+          "url": "https://www.youtube.com/watch?v=cJx0k_ln1-g"
+        },
+        {
+          "titulo": "Como Deschamps começou a aprender qualquer coisa de programacao",
+          "url": "https://www.youtube.com/watch?v=ZtMzB5CoekE&t=130s"
+        },
+        {
+          "titulo": "3 livros interessantes para programadores",
+          "url": "https://www.youtube.com/watch?v=Uh0Kn2aXEqY"
+        }        
+      ]
+    },
+    {
+      "titulo": "React Native",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Canal YT Sujeito Programador",
+        "url": "https://www.youtube.com/c/Sujeitoprogramador"
+      },
+      "videos": [
+        {
+          "titulo": "Material UI e React Native",
+          "url": "https://www.youtube.com/watch?v=-7JT5LGLKFM"
+        },
+        {
+          "titulo": "Aprendendo React Navigation",
+          "url": "https://www.youtube.com/watch?v=WVdRjMycfpo&t=755s"
+        },
+        {
+          "titulo": "Login Animado com React Native",
+          "url": "https://www.youtube.com/watch?v=pdFqfOTmd60"
+        },
+        {
+          "titulo": "Loading do Facebook com React Native",
+          "url": "https://www.youtube.com/watch?v=lI9JtRjc2Qo"
+        }, 
+        {
+          "titulo": "Botão animado com React Native",
+          "url": "https://www.youtube.com/watch?v=BVsKBob1t9k"
+        }
+      ]
+    },
+    {
+      "titulo": "Conhecimentos Gerais Programação",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Canal YT Código Fonte TV",
+        "url": "https://www.youtube.com/c/codigofontetv"
+      },
+      "videos": [
+        {
+          "titulo": "O que é DDD",
+          "url": "https://www.youtube.com/watch?v=GE6asEjTFv8"
+        },
+        {
+          "titulo": "Tecnologias por trás do League Of Legends",
+          "url": "https://www.youtube.com/watch?v=AJHtok_qIvE"
+        },
+        {
+          "titulo": "Um pouco sobre Cypress",
+          "url": "https://www.youtube.com/watch?v=ipE9bsfYEog"
+        },
+        {
+          "titulo": "Entendendo UX",
+          "url": "https://www.youtube.com/watch?v=U1kKWqlfxnk"
+        }
+      ]
+    },
+    {
+      "titulo": "Projetos Bacanas",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Páginação Front-end com JS Puro",
+          "url": "https://www.youtube.com/watch?v=6-VDE3H9-WU"
+        },
+        {
+          "titulo": "Carousel só com CSS",
+          "url": "https://www.youtube.com/watch?v=SGwHpzgqzgk"
+        },
+        {
+          "titulo": "Recriando Interface Discord",
+          "url": "https://www.youtube.com/watch?v=x4FdZd2-_uU"
+        },
+        {
+          "titulo": "Recriando Interface Twitter",
+          "url": "https://www.youtube.com/watch?v=K-8z_4xvT3o"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    }
+  ]
+}
